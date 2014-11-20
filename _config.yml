@@ -12,7 +12,7 @@ relative_permalinks: true
 title:               Bo Frese
 tagline:             'Agile/Lean Developer'
 description:         'Asorted mix of development related notes'
-url:                 http://lanyon.getpoole.com
+url:                 http://bofrese.github.io
 baseurl:             /
 paginate:            5
 
